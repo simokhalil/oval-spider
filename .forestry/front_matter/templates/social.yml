@@ -1,9 +1,4 @@
 ---
-label: Social Links
-hide_body: true
-is_partial: false
-fields:
-  - type: null
-    name: links
-    label: Social Links
-    description: A list of social links displayed on the left side.
+label: 
+hide_body: false
+fields: []
